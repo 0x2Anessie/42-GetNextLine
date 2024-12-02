@@ -61,7 +61,7 @@ Les bonus ne seront évalués que si la partie obligatoire est **parfaitement fo
 
 - **Cloner le dépôt** :  
    ```bash
-   git clone <URL-du-dépôt>
+   git clone https://github.com/0x2Anessie/42-GetNextLine.git
    ```
    ```bash
    cd 42-GetNextLine
